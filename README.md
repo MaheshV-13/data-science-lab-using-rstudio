@@ -13,6 +13,7 @@ This repository contains lab tasks for the TEB2043 Data Science course (January 
 | 23/2/2026 | Lab 6 | - [Activity1](Lab_Tasks/Lab6/Activity/Activity1.R) <br> - [Activity2](Lab_Tasks/Lab6/Activity/Activity2.R) <br> - [Activity3](Lab_Tasks/Lab6/Activity/Activity3.R) <br> - [Activity4](Lab_Tasks/Lab6/Activity/Activity4.R)|
 | 2/3/2026 | Lab 7 | - [Activity1](Lab_Tasks/Lab7/Activity/Activity1.R) |
 | 9/3/2026 | Lab 8 | - [Activity1](Lab_Tasks/Lab8/Activity/Activity1.R) <br> - [Activity2](Lab_Tasks/Lab8/Activity/Activity2.R) |
+| 23/3/2026 | Lab 9 | - [Activity1](Lab_Tasks/Lab9/Activity/Activity1.R) <br> - [Activity2](Lab_Tasks/Lab9/Activity/Activity2.R) |
 
 ## 🗓️ Lab Project
 
